@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @dineshBvc
-- 👀 I’m interested in BVC
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate with Shiva
-- 📫 How to reach me ...
-- 😄 Pronouns: They/Them/He/Him/it
-- ⚡ Fun fact: ...
+- 👀 I’m a seasoned DevOps Herbivore 🥕️.
+- 🌱 I’m currently learning BVC.
+- 💞️ I’m looking to collaborate.
+- 😄 Pronouns: They/Them/He/Him/It? - Lol
+- ⚡ Fun fact: Did you know that "Programmers prefer Dark mode"? Because, Light 🔦️ attracts bugs! 🪲️- Lol
 
 <!---
 dineshBvc/dineshBvc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
